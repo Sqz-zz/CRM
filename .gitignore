@@ -1,0 +1,15 @@
+# Visual Studio и временные файлы
+.vs/
+[Bb]in/
+[Oo]bj/
+out/
+.idea/
+
+# Фронтенд зависимости (на всякий случай дублируем)
+frontend/node_modules/
+frontend/dist/
+
+# Локальные конфиги
+*.user
+*.suo
+.DS_Store
